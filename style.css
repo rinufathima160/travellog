@@ -1,0 +1,322 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+.nav-logo {
+    margin-top: -850px;
+    margin-left: 150px;
+
+
+}
+
+.nav2 {
+    margin-top: -850px;
+    margin-right: 200px;
+    font-size: 20px;
+    
+
+}
+
+.btn-div1{
+    margin-top: -440px;
+    margin-right: 100px;
+    width: 150px;
+}
+.home{
+    border-bottom: 3px solid #DF6951;
+    padding-bottom: 5px;
+
+
+}
+.btn-div1>button{
+  
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+   
+
+   
+
+.main {
+
+    background-image: url('./img/Rectangle\ 19290.png');
+    height: 1000px;
+    position: relative;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.texts {
+    position: absolute;
+    top: 60%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.text1{
+    font-weight: 900;
+    font-size: 58.51;
+
+}
+.txt1{
+    margin-bottom: 70px;
+}
+
+span.b {
+    display: inline; /* the default for span */
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+    border: 0px solid #f3f3f37a;  
+    background-color: #f3f3f37a; 
+    color: white;
+    font-weight: 500;
+    font-size: 24px;
+    font-family: "Radio Canada Big", sans-serif;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: -300px;
+    
+    
+     
+
+   
+    
+}
+.submit{
+    background-color: #DF6951;
+    border-color: #DF6951;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+.logos{
+    padding-top:30px ;
+    padding-bottom: 30px;
+    background-color: #F7F7F7;
+}
+.category-head{
+    text-align: center;
+    color: #DF6951;
+    margin-top: 50px;
+}
+.category-sub{
+    text-align: center;
+    color: #181E4B;
+    font-family: "Volkhov", serif;
+}
+.flight{
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.063);
+    border-radius: 20px; 
+
+}
+.honeymoon{
+    text-align: left;
+}
+.honeymoon-head{
+    margin-top: 200px;
+    color: #DF6951;
+    font-size: 18px;
+    
+}
+.honeymoon-sub{
+    color: #181E4B;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: "Volkhov", serif;
+
+    
+}
+.honeymoon-para{
+    font-size: 16px;
+}
+.honeymoon-button{
+    background-color: #DF6951;
+    border-color: #DF6951;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.booking-head{
+color: #5E6282;
+font-size: 18px;
+font-weight: 700;
+}
+.booking-sub{
+    color: #5E6282;
+    font-size: 18px;
+    font-weight: 400;
+}
+.book-img>img{
+    margin-top: 200px;
+    height: 600px;
+}
+
+.pic{
+    position: relative;
+}
+
+.pic-txt{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    left: 30%;
+    color: white;
+}
+.pic-txt>h1{
+    font-size: 50px;
+}
+.imgg{
+    position: absolute;
+    left: 50%;
+}
+.ill{
+    position: relative;
+    left: 10%;
+}
+
+.package-head{
+    color: #DF6951;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.package-sub{
+    color: #181E4B;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: "Volkhov", serif;
+
+}
+.pack{
+    text-align: center;
+}
+.about{
+    position: relative;
+}
+.about-texts{
+position: absolute;
+top: 10%;
+left: 40%;
+}
+#basic-addon2{
+    background-color: #DF6951;
+    color: white;
+}
+
+.contents{
+    text-align: left;
+    margin-top: 30px;
+}
+
+.stars{
+    font-size: 16px;
+}
+
+.content-name{
+    font-size: 29.03;
+    font-weight: bold;
+}
+
+.content-sub{
+    color: #7D7D7D;
+    font-size: 16.81;
+
+}
+.content-para{
+    font-size: 12.22;
+}
+.price-main{
+    font-size: 29.03;
+    color: #DF6951;
+}
+.price-sub{
+    font-size: 22px;
+    color: #7D7D7D;
+    text-decoration: line-through;
+}
+.eclipse-main{
+    position: relative;
+}
+.eclipse{
+    position: absolute;
+    top: 240px;
+    
+}
+.eclipse>img{
+    width: 100px;
+}
+
+.footer{
+    font-family: "Manrope", sans-serif;
+    font-size: 16px;
+}
+.fhead{
+    font-size: 21px;
+}
+
+@media (max-width:768px) 
+{
+    
+
+    .navbutton {
+        margin-top: -350px;
+        position: fixed;
+        margin-left: 380px;
+    }
+    .main {
+        background-size: cover;
+        height: 500px;
+        
+    }
+    .enquiry {
+        position: absolute;
+        top: 10%;
+        left: 60%;
+        transform: translate(-60%, -10%);
+        padding: 0px;
+
+    }
+    .nav-logo {
+        margin-top: -300px;
+        width: 100px;
+        margin-left: -10px;
+        margin-bottom: 50px;
+    }
+
+    .texts {
+        position: absolute;
+        
+     
+    }
+
+    .text1 {
+        font-weight: 900;
+        font-size: 50px;
+    }
+    .nav2 {
+        margin-top: -390px;
+        font-size: 10px;
+        background-color: #DF6951;
+      
+    }
+    .b{
+        width: 100%;
+   
+
+}
+}
